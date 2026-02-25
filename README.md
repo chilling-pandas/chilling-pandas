@@ -21,8 +21,6 @@ Building scalable AI systems with ML & backend engineering.
 ---
 
 ## ⚙ Language and Tools
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,gcp,git" />
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="48" />
@@ -33,8 +31,6 @@ Building scalable AI systems with ML & backend engineering.
 ---
 
 ## 🌐 Connect With Me
-
-<p align="center">
   <a href="https://www.linkedin.com/in/sourav-manna-100590279" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
