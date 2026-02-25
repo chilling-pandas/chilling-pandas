@@ -22,24 +22,11 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" height="50"/> |
-<img src="https://skillicons.dev/icons?i=cpp" height="50"/> |
-<img src="https://skillicons.dev/icons?i=django" height="50"/> |
-<img src="https://skillicons.dev/icons?i=fastapi" height="50"/> |
-<img src="https://skillicons.dev/icons?i=postgres" height="50"/> |
-<img src="https://skillicons.dev/icons?i=gcp" height="50"/> |
-<img src="https://skillicons.dev/icons?i=firebase" height="50"/> |
-<img src="https://skillicons.dev/icons?i=git" height="50"/> |
-<img src="https://skillicons.dev/icons?i=streamlit" height="50"/> |
-<img src="https://skillicons.dev/icons?i=sklearn" height="50"/> |
-<img src="https://skillicons.dev/icons?i=pandas" height="50"/> |
-<img src="https://skillicons.dev/icons?i=numpy" height="50"/>
-
+<img src="https://skillicons.dev/icons?i=python,cpp,django,fastapi,postgres,gcp,firebase,git,streamlit,sklearn,pandas,numpy" />
 </p>
 
 <p align="center">
-REST API
+Backend • ML Systems • REST APIs • Deployment
 </p>
 ---
 
