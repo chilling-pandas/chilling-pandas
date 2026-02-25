@@ -1,48 +1,90 @@
-👋 Hi, I'm Sourav Manna
+# 👋 Hi, I'm Sourav Manna
 
-AI & ML Developer | Deep Learning Enthusiast | Problem Solver
+🎓 B.Tech CSE (AI & ML)  
+🤖 Machine Learning Engineer  
+🛠 Backend Developer (Django)  
+🚀 Building scalable AI-powered systems  
 
-I build intelligent systems using Machine Learning and Deep Learning that are practical, scalable, and deployable.
+---
 
-🚀 Highlights
+## 🧠 AI / ML Expertise
 
-🧠 Built deep learning-based AI systems
+- Supervised & Unsupervised Learning
+- Gradient Descent & Optimization
+- SVM, Classical ML Algorithms
+- Deep Learning (LSTM, RNN)
+- Model Evaluation & Performance Tuning
+- End-to-End ML Pipelines
+- Vector Search & RAG Systems
 
-📊 Strong foundation in ML algorithms
+---
 
-⚙ Experience with model training, evaluation & deployment
+## 🛠 Tech Stack
 
-🌍 Interested in AI for real-world impact
-
-
-👋 Hi, I'm Sourav Manna
-
-
-## 🚀 Tech Stack
-## 🧠 AI / ML Stack
-
-### 📌 Core Programming
+### 📌 Programming
 Python | C++
 
-### 📊 Data & ML
+### 🤖 Machine Learning & Data
 Scikit-learn | NumPy | Pandas | Matplotlib
+
+### 🌐 Backend Development
+Django | REST APIs | PostgreSQL
 
 ### 🚀 ML App Development
 Streamlit | Firebase
 
-### 🗄 Database
-PostgreSQL
-
 ### ☁ Cloud & DevOps
 Git | Google Cloud Platform (GCP)
 
-![Python](https://img.shields.io/badge/Python-2C2C2C?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-2C2C2C?style=for-the-badge&logo=cplusplus)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-2C2C2C?style=for-the-badge&logo=scikitlearn)
-![NumPy](https://img.shields.io/badge/NumPy-2C2C2C?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-2C2C2C?style=for-the-badge&logo=pandas)
-![Streamlit](https://img.shields.io/badge/Streamlit-2C2C2C?style=for-the-badge&logo=streamlit)
-![Firebase](https://img.shields.io/badge/Firebase-2C2C2C?style=for-the-badge&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C2C2C?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-2C2C2C?style=for-the-badge&logo=git)
-![GCP](https://img.shields.io/badge/GCP-2C2C2C?style=for-the-badge&logo=googlecloud)
+---
+
+## 🔥 Most Impactful Projects
+
+### 1️⃣ AI Logistics Supply Chain Optimization
+- ML-based demand prediction & optimization
+- Performance evaluation using metrics & confusion matrix
+- Designed modular architecture
+- Deployment-ready system
+
+### 2️⃣ SNAPSUMMARY – Deep Learning Video Summarizer
+- Custom LSTM-based model
+- Speech-to-text + summarization pipeline
+- Streamlit frontend + backend integration
+- Designed scalable architecture
+
+### 3️⃣ AI Quiz App with Vector Search
+- RAG-based intelligent question generation
+- Vector similarity search implementation
+- Backend API integration
+- Live deployment
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🧩 What Makes Me Different
+
+✔ I combine Machine Learning + Backend Engineering  
+✔ I build complete AI systems (Model + API + Database + Deployment)  
+✔ I focus on architecture, scalability & clean code  
+✔ I understand ML math & practical implementation  
+
+---
+
+## 🎯 Career Goal
+
+To work as a Machine Learning Engineer / Backend AI Engineer  
+Building scalable, intelligent production systems.
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: (Add link)  
+Email: (Add email)
