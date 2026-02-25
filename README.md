@@ -19,6 +19,22 @@ I build intelligent systems using Machine Learning and Deep Learning that are pr
 
 
 ## 🚀 Tech Stack
+## 🧠 AI / ML Stack
+
+### 📌 Core Programming
+Python | C++
+
+### 📊 Data & ML
+Scikit-learn | NumPy | Pandas | Matplotlib
+
+### 🚀 ML App Development
+Streamlit | Firebase
+
+### 🗄 Database
+PostgreSQL
+
+### ☁ Cloud & DevOps
+Git | Google Cloud Platform (GCP)
 
 ![Python](https://img.shields.io/badge/Python-2C2C2C?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-2C2C2C?style=for-the-badge&logo=cplusplus)
