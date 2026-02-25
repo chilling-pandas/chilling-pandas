@@ -1,7 +1,7 @@
 <!-- HERO SECTION -->
 
-<h1 align="center">Sourav Manna</h1>
-<h3 align="center">Machine Learning Engineer • Backend Developer • System Builder</h3>
+<h1 align="center">👋 Hi, I'm Sourav Manna</h1>
+<h3 align="center">A passionate ML Engineer • Backend Developer</h3>
 
 <p align="center">
 Designing intelligent systems that combine Machine Learning, APIs, and scalable backend architecture.
@@ -12,7 +12,7 @@ Designing intelligent systems that combine Machine Learning, APIs, and scalable 
 ## ⚙ Core Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,gcp,git,streamlit,sklearn,pandas,numpy" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,gcp,git,shell,sklearn,pandas,numpy" />
 </p>
 
 ---
