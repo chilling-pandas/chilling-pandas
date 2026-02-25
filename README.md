@@ -6,10 +6,7 @@
 Building scalable AI systems with ML & backend engineering.
 </p>
 
-📩 Reach me: <b>souravmanna41860@gmail.com</b>
 </p>
-
----
 
 ## 🚀 Currently Working On
 
@@ -17,7 +14,7 @@ Building scalable AI systems with ML & backend engineering.
 - 🔎 Vector Search & RAG architectures  
 - ⚙ End-to-end ML pipelines (Model → API → Deployment)  
 - 🏗 Scalable backend systems using Django & FastAPI  
-
+- 📩 Reach me: <b>souravmanna41860@gmail.com</b>
 ---
 
 ## ⚙ Language and Tools
