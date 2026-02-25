@@ -1,42 +1,44 @@
-# 👋 Hi, I'm Sourav Manna
+<!-- HERO SECTION -->
 
-🎓 B.Tech CSE (AI & ML)  
-🤖 Machine Learning Engineer  
-🛠 Backend Developer (Django)  
-🚀 Building scalable AI-powered systems  
+<h1 align="center">Sourav Manna</h1>
+<h3 align="center">Machine Learning Engineer • Backend Developer • System Builder</h3>
 
----
-
-## 🧠 AI / ML Expertise
-
-- Supervised & Unsupervised Learning
-- Gradient Descent & Optimization
-- SVM, Classical ML Algorithms
-- Deep Learning (LSTM, RNN)
-- Model Evaluation & Performance Tuning
-- End-to-End ML Pipelines
-- Vector Search & RAG Systems
-
----
-
-## 🛠 Language and Tools
-
-<img src="https://skillicons.dev/icons?i=python,cpp,django,streamlit,fastapi,postgres,gcp,firebase,git,sklearn,mysql,numpy" />
+<p align="center">
+Designing intelligent systems that combine Machine Learning, APIs, and scalable backend architecture.
 </p>
 
+---
 
-## 📊 GitHub Stats
+## ⚙ Core Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,gcp,git,streamlit,sklearn,pandas,numpy" />
+</p>
 
 ---
 
+## 🚀 Engineering Focus
 
-## 🎯 Career Goal
+- Building end-to-end ML systems (Model → API → Database → Deployment)
+- Designing scalable backend architectures
+- Implementing RESTful APIs with Django & FastAPI
+- Production-ready AI applications
 
-To work as a Machine Learning Engineer / Backend AI Engineer  
-Building scalable, intelligent production systems.
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Current Direction
+
+Backend-driven AI systems  
+Vector search & RAG architectures  
+Deployment-focused ML engineering
 
 
