@@ -9,7 +9,7 @@ Building scalable AI systems with ML & backend engineering.
 </p>
 
 ## 🚀 Currently Working On
-
+- 🤖 Building scalable AI systems with ML & backend engineering.
 - 🤖 Agentic AI systems  
 - 🔎 Vector Search & RAG architectures  
 - ⚙ End-to-end ML pipelines (Model → API → Deployment)  
