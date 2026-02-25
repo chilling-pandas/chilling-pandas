@@ -21,14 +21,8 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,django,fastapi,postgres,gcp,firebase,git,streamlit,sklearn,pandas,numpy" />
+<img src="https://skillicons.dev/icons?i=python,cpp,django,fastapi,postgres,gcp,firebase,git,streamlit,sklearn,mysql,numpy" />
 </p>
-
-<p align="center">
-Backend • ML Systems • REST APIs • Deployment
-</p>
----
 
 ## 🔥 Most Impactful Projects
 
