@@ -20,15 +20,15 @@ Designing intelligent systems that combine Machine Learning, APIs, and scalable 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/sourav-manna-100590279" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/u/98_Sourav/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+  <a href="https://www.kaggle.com/takeuforwrd" target="_blank">
     <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="48" />
   </a>
 </p>
@@ -47,15 +47,6 @@ Designing intelligent systems that combine Machine Learning, APIs, and scalable 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"/>
 </p>
----
-
-## 🧠 Current Direction
-
-Backend-driven AI systems  
-Vector search & RAG architectures  
-Deployment-focused ML engineering
-
-
