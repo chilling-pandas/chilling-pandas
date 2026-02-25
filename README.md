@@ -6,7 +6,6 @@
 </p>
 
 </p>
-
 ## 🚀 Currently Working On
 - 🤖 Building scalable AI systems with ML & backend engineering.
 - 🤖 Agentic AI systems  
