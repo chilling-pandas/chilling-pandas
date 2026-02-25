@@ -1,4 +1,4 @@
-👋 Hey, I'm Sourav Manna
+👋 Hi, I'm Sourav Manna
 
 AI & ML Developer | Deep Learning Enthusiast | Problem Solver
 
@@ -14,6 +14,8 @@ I build intelligent systems using Machine Learning and Deep Learning that are pr
 
 🌍 Interested in AI for real-world impact
 
-🛠 Tech Stack
 
-Python | Scikit-learn | TensorFlow | PyTorch | Streamlit | Firebase | SQL | Git | GCP | Render
+👋 Hi, I'm Sourav Manna
+
+
+<img width="576" height="594" alt="image" src="https://github.com/user-attachments/assets/b8ae3f74-24ca-445a-8cc3-235e73e2ddd5" />
