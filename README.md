@@ -12,7 +12,7 @@ Designing intelligent systems that combine Machine Learning, APIs, and scalable 
 ## ⚙ Core Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,gcp,git,shell,sklearn,pandas,numpy" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,gcp,git,sklearn,pandas,numpy" />
 </p>
 
 ---
