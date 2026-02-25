@@ -21,7 +21,7 @@
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,cpp,django,fastapi,postgres,gcp,firebase,git,streamlit,sklearn,mysql,numpy" />
+<img src="https://skillicons.dev/icons?i=python,cpp,django,fastapi,postgres,gcp,firebase,git,sklearn,mysql,numpy" />
 </p>
 
 ## 🔥 Most Impactful Projects
