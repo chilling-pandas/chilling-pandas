@@ -12,7 +12,8 @@ Designing intelligent systems that combine Machine Learning, APIs, and scalable 
 ## ⚙ Language and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,gcp,git,sklearn,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,gcp,git,sklearn,pandas,numpy" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" />
 </p>
 
 ---
@@ -25,22 +26,13 @@ Designing intelligent systems that combine Machine Learning, APIs, and scalable 
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/98_Sourav/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.kaggle.com/takeuforwrd" target="_blank">
     <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="48" />
   </a>
 </p>
-
----
-
-## 🚀 Engineering Focus
-
-- Building end-to-end ML systems (Model → API → Database → Deployment)
-- Designing scalable backend architectures
-- Implementing RESTful APIs with Django & FastAPI
-- Production-ready AI applications
 
 ---
 
