@@ -3,7 +3,6 @@
 <h1 align="center">👋 Hi, I'm Sourav Manna</h1>
 <h3 align="center">A passionate ML Engineer • Backend Developer</h3>
 
-<p align="center">
 Designing intelligent systems that combine Machine Learning, APIs, and scalable backend architecture.
 </p>
 
