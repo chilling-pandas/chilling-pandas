@@ -18,4 +18,4 @@ I build intelligent systems using Machine Learning and Deep Learning that are pr
 👋 Hi, I'm Sourav Manna
 
 
-<img width="50" height="52" alt="image" src="https://github.com/user-attachments/assets/b8ae3f74-24ca-445a-8cc3-235e73e2ddd5" />
+<img width="44" height="46" alt="image" src="https://github.com/user-attachments/assets/b8ae3f74-24ca-445a-8cc3-235e73e2ddd5" />
