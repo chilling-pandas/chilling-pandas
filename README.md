@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hey, I'm Sourav Manna
 
-<!--
-**chilling-pandas/chilling-pandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & ML Developer | Deep Learning Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+I build intelligent systems using Machine Learning and Deep Learning that are practical, scalable, and deployable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Highlights
+
+🧠 Built deep learning-based AI systems
+
+📊 Strong foundation in ML algorithms
+
+⚙ Experience with model training, evaluation & deployment
+
+🌍 Interested in AI for real-world impact
+
+🛠 Tech Stack
+
+Python | Scikit-learn | TensorFlow | PyTorch | Streamlit | Firebase | SQL | Git | GCP | Render
