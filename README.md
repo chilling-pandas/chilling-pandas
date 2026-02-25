@@ -22,7 +22,7 @@ Building scalable AI systems with ML & backend engineering.
 
 ## ⚙ Language and Tools
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,gcp,git" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" /> <img src="https://cdn.simpleicons.org/numpy/013243" height="48" /> <img src="https://cdn.simpleicons.org/pandas/150458" height="48" /> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E/numpy/01324/pandas/15045/streamlit/FF4B4B" height="48" /> 
   <img src="https://cdn.simpleicons.org/numpy/013243" height="48" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="48" />
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" />
