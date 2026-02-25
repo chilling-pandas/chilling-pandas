@@ -10,8 +10,6 @@ Designing intelligent systems that combine Machine Learning, APIs, and scalable 
 ---
 
 ## ⚙ Language and Tools
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,gcp,git,sklearn,pandas,numpy" />
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" />
 </p>
@@ -19,8 +17,6 @@ Designing intelligent systems that combine Machine Learning, APIs, and scalable 
 ---
 
 ## 🌐 Connect With Me
-
-<p align="center">
   <a href="https://www.linkedin.com/in/sourav-manna-100590279" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
