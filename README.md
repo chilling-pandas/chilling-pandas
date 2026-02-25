@@ -21,47 +21,26 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Programming
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> Python
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> C++
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="50"/> |
+<img src="https://skillicons.dev/icons?i=cpp" height="50"/> |
+<img src="https://skillicons.dev/icons?i=django" height="50"/> |
+<img src="https://skillicons.dev/icons?i=fastapi" height="50"/> |
+<img src="https://skillicons.dev/icons?i=postgres" height="50"/> |
+<img src="https://skillicons.dev/icons?i=gcp" height="50"/> |
+<img src="https://skillicons.dev/icons?i=firebase" height="50"/> |
+<img src="https://skillicons.dev/icons?i=git" height="50"/> |
+<img src="https://skillicons.dev/icons?i=streamlit" height="50"/> |
+<img src="https://skillicons.dev/icons?i=sklearn" height="50"/> |
+<img src="https://skillicons.dev/icons?i=pandas" height="50"/> |
+<img src="https://skillicons.dev/icons?i=numpy" height="50"/>
+
 </p>
 
-### 🤖 Machine Learning & Data
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/> Scikit-learn
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/> NumPy
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> Pandas
-  &nbsp;&nbsp;
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40"/> Matplotlib
+<p align="center">
+REST API
 </p>
-
-### 🌐 Backend Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> Django
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/> FastAPI
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> PostgreSQL
-</p>
-
-### 🚀 ML App Development
-<p align="left">
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="40" height="40"/> Streamlit
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/> Firebase
-</p>
-
-### ☁ Cloud & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> Git
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> Google Cloud Platform
-</p>
-
 ---
 
 ## 🔥 Most Impactful Projects
@@ -94,23 +73,10 @@
 
 ---
 
-## 🧩 What Makes Me Different
-
-✔ I combine Machine Learning + Backend Engineering  
-✔ I build complete AI systems (Model + API + Database + Deployment)  
-✔ I focus on architecture, scalability & clean code  
-✔ I understand ML math & practical implementation  
-
----
 
 ## 🎯 Career Goal
 
 To work as a Machine Learning Engineer / Backend AI Engineer  
 Building scalable, intelligent production systems.
 
----
 
-## 📫 Connect With Me
-
-LinkedIn: (Add link)  
-Email: (Add email)
