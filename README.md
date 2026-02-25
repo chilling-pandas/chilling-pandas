@@ -1,22 +1,40 @@
 <!-- HERO SECTION -->
 
 <h1 align="center">👋 Hi, I'm Sourav Manna</h1>
-<h3 align="center">A passionate ML Engineer • Backend Developer</h3>
+<h3 align="center">ML Engineer • Backend Developer</h3>
 
-<p align="center">
-Designing intelligent systems that combine Machine Learning, APIs, and scalable backend architecture.
+Building scalable AI systems with ML & backend engineering.
+</p>
+
+📩 Reach me: <b>souravmanna41860@gmail.com</b>
 </p>
 
 ---
 
+## 🚀 Currently Working On
+
+- 🤖 Agentic AI systems  
+- 🔎 Vector Search & RAG architectures  
+- ⚙ End-to-end ML pipelines (Model → API → Deployment)  
+- 🏗 Scalable backend systems using Django & FastAPI  
+
+---
+
 ## ⚙ Language and Tools
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,gcp,git,sklearn,pandas,numpy" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,gcp,git" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" />
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sourav-manna-100590279" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
