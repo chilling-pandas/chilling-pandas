@@ -19,32 +19,11 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Language and Tools
 
-<img src="https://skillicons.dev/icons?i=python,cpp,django,fastapi,postgres,gcp,firebase,git,sklearn,mysql,numpy" />
+<img src="https://skillicons.dev/icons?i=python,cpp,django,streamlit,fastapi,postgres,gcp,firebase,git,sklearn,mysql,numpy" />
 </p>
 
-## 🔥 Most Impactful Projects
-
-### 1️⃣ AI Logistics Supply Chain Optimization
-- ML-based demand prediction & optimization
-- Performance evaluation using metrics & confusion matrix
-- Designed modular architecture
-- Deployment-ready system
-
-### 2️⃣ SNAPSUMMARY – Deep Learning Video Summarizer
-- Custom LSTM-based model
-- Speech-to-text + summarization pipeline
-- Streamlit frontend + backend integration
-- Designed scalable architecture
-
-### 3️⃣ AI Quiz App with Vector Search
-- RAG-based intelligent question generation
-- Vector similarity search implementation
-- Backend API integration
-- Live deployment
-
----
 
 ## 📊 GitHub Stats
 
