@@ -3,9 +3,9 @@
 <h1 align="center">👋 Hi, I'm Sourav Manna</h1>
 <h3 align="center">ML Engineer • Backend Developer</h3>
 
-</p>
 
 </p>
+
 ## 🚀 Currently Working On
 - 🤖 Building scalable AI systems with ML & backend engineering.
 - 🤖 Agentic AI systems  
