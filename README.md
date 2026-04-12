@@ -43,7 +43,6 @@
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chilling-pandas&show_icons=true&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chilling-pandas&layout=compact&hide_border=true"/>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=chilling-pandas&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chilling-pandas&layout=compact&theme=tokyonight)
