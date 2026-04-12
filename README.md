@@ -41,8 +41,6 @@
 
 ---
 
-## 📊 GitHub Insights
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chilling-pandas&show_icons=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=chilling-pandas&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chilling-pandas&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chilling-pandas&layout=compact)
