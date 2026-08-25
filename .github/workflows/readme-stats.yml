@@ -2,8 +2,8 @@ name: Generate README Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs automatically every night at midnight UTC
-  workflow_dispatch: # Allows you to manually trigger it anytime
+    - cron: '0 0 * * *' # Runs every night at midnight
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   generate-stats:
@@ -12,29 +12,21 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      # 1. Generates the Stats Card
-      - name: Generate Stats Card
-        uses: github-readme-stats/github-readme-stats-action@v2
-        with:
-          card: stats
-          token: ${{ secrets.GH_TOKEN }}
-          path: profile/stats.svg
-          options: theme=tokyonight&hide_border=true&show_icons=true
+      # Creates the profile folder so the save doesn't crash
+      - name: Create directory
+        run: mkdir -p profile
 
-      # 2. Generates the Top Languages Card
-      - name: Generate Languages Card
-        uses: github-readme-stats/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          token: ${{ secrets.GH_TOKEN }}
-          path: profile/langs.svg
-          options: theme=tokyonight&hide_border=true&layout=compact
+      # Fetches the cards directly via standard terminal commands using your GH_TOKEN
+      - name: Download SVG Cards
+        run: |
+          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" "https://vercel.app" -o profile/stats.svg
+          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" "https://vercel.app" -o profile/langs.svg
 
-      # 3. Commits and Pushes the files to your repository
-      - name: Commit and Push
+      # Commits and uploads the images back to your profile repo
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "github-actions[bot]@://github.com"
           git add profile/*.svg
           git commit -m "Update profile readme stats SVGs" || exit 0
           git push
