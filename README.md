@@ -41,10 +41,25 @@
 
 ---
 
-## 📊 GitHub Insights
+### 📊 GitHub Insights
 
-<p align="center">
-  <img src="./profile/stats.svg" height="170" alt="GitHub Stats"/>  
-  <img src="./profile/langs.svg" height="170" alt="Top Languages"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Tech Stack & Tools</h4>
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 Profile Metrics</h4>
+      <ul>
+        <li>✨ Building Scalable Backend Systems</li>
+        <li>🤖 Machine Learning Pipelines & Architecture</li>
+        <li>⚡ High-Performance REST APIs</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
