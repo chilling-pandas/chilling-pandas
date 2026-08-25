@@ -43,9 +43,8 @@
 
 ### 📊 GitHub Insights
 
-<p align="center">
-  <img src="./profile/stats.svg" height="170" alt="GitHub Stats"/>  
-  <img src="./profile/langs.svg" height="170" alt="Top Languages"/>
-</p>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chilling-pandas&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chilling-pandas&layout=compact&theme=tokyonight&hide_border=true)
 
 
