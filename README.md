@@ -43,8 +43,8 @@
 
 ### 📊 GitHub Insights
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chilling-pandas&show_icons=true&theme=tokyonight&hide_border=true)
+![Your GitHub stats]([https://github-readme-stats.vercel.app/api?username=chilling-pandas&show_icons=true&theme=tokyonight&hide_border=true](https://raw.githubusercontent.com/chilling-pandas/github-stats-images/refs/heads/generated/overview.svg))
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chilling-pandas&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=chilling-pandas&layout=compact&theme=tokyonight&hide_border=tru](https://raw.githubusercontent.com/chilling-pandas/github-stats-images/refs/heads/generated/overview.svg)e)
 
 
